@@ -1,0 +1,501 @@
+Respondent_id,Age_Category,Age_group,Gender,Region,Income_Level,ad_version_seen,Ad_Recall_Score,Ad_Engagement_Score,Message_Clarity_Score,Brand_Loyalty_Score,Switch_Likelihood,NPS_Category,NPS_Score,Feedback_Comment,submission_date
+10001,Older,45–54,Female,North,Low,Ad_A,7,7,8,9,1,Detractor,-51,Run Meeting Woman Meeting Central More Like Color.,21-Mar-25
+10002,Older,55+,Male,West,Middle,Ad_B,6,4,9,8,2,Detractor,1,American Social Traditional Serve Factor Surface Human.,30-Apr-25
+10003,Middle Aged,35–44,Female,West,High,Ad_A,6,4,7,8,2,Promoter,37,Store First Feel Actually Late During Pattern.,16-Apr-25
+10004,Older,55+,Male,South,High,Ad_A,5,8,7,6,4,Promoter,59,Charge Born Worry Sort Hotel Easy.,13-Apr-25
+10005,Older,55+,Non-Binary,West,High,Ad_A,6,8,1,8,5,Detractor,-54,Meet Structure Trade Oil.,17-May-25
+10006,Young Adult,25–34,Non-Binary,West,High,Ad_B,9,2,4,3,1,Detractor,-86,And Sit South Bring Who Out Determine What Fly Care.,29-Apr-25
+10007,Middle Aged,35–44,Male,North,Low,Ad_A,9,2,2,9,5,Detractor,-17,These Factor Race Floor Media Discussion.,28-May-25
+10008,Middle Aged,35–44,Unknown ,West,Middle,Ad_B,10,3,2,2,4,Promoter,30,Toward American Kitchen Soldier Wrong Mission.,16-Apr-25
+10009,Middle Aged,35–44,Male,East,High,Ad_B,8,3,2,2,1,Detractor,-64,Late Whose Skin Board Natural He Camera Yet Artist Ask.,1-May-25
+10010,Older,55+,Non-Binary,North,Low,Ad_B,10,1,4,7,1,Promoter,25,View Individual Pressure Only Cause Share Receive State Successful Already.,5-May-25
+10011,Older,45–54,Male,North,High,Ad_B,9,3,1,10,5,Detractor,-54,Street Join Thought For Tonight Smile Develop Few Answer Everyone.,15-May-25
+10012,Middle Aged,35–44,Non-Binary,South,Middle,Ad_B,10,6,4,4,3,Detractor,-29,Others Charge Network Visit Network Investment Power Strategy.,21-Apr-25
+10013,Older,55+,Female,West,Low,Ad_B,8,8,2,10,2,Detractor,-61,Meeting Deep Really Claim.,14-Apr-25
+10014,Young Adult,25–34,Non-Binary,South,Middle,Ad_B,8,10,5,8,3,Detractor,-45,Eight Follow Week Career There Million Support.,20-Mar-25
+10015,Older,45–54,Non-Binary,East,Middle,Ad_B,1,6,3,9,5,Promoter,50,Say Now Wait As Leader.,23-Mar-25
+10016,Young Adult,25–34,Female,North,Low,Ad_B,10,5,8,7,2,Detractor,3,Recent Item Suffer Sport Value Spend.,22-May-25
+10017,Older,45–54,Non-Binary,North,Low,Ad_A,5,4,4,5,3,Promoter,38,Shake Boy Trial South Bring Old Style.,30-May-25
+10018,Older,55+,Male,North,Low,Ad_A,4,3,1,8,2,Promoter,9,Once Oil Benefit Door Music Account National Fall Half Difficult.,15-Apr-25
+10019,Young,18–24,Male,East,Low,Ad_A,2,4,1,4,1,Promoter,91,Value Event Century Wish Save Door.,16-Apr-25
+10020,Older,45–54,Non-Binary,East,Low,Ad_A,8,7,10,2,3,Promoter,35,Year Contain Again Mean Law Ball Window Television Hundred Within.,15-Apr-25
+10021,Young Adult,25–34,Male,South,Low,Ad_A,3,1,3,6,2,Detractor,-8,Seat Player Organization Should She Wrong Simply Management Weight.,23-May-25
+10022,Older,55+,Non-Binary,South,Low,Ad_B,4,7,9,9,2,Detractor,-7,Attorney Exactly Say Work Many Place.,22-Mar-25
+10023,Older,45–54,Male,South,High,Ad_B,7,1,7,1,2,Detractor,-45,From Yes Alone Relate Indeed Me.,15-May-25
+10024,Young,18–24,Male,West,Middle,Ad_B,10,2,2,10,3,Detractor,-41,Very Sound Might Blue Attention Wife Too Necessary.,3-Jun-25
+10025,Young,18–24,Non-Binary,North,Low,Ad_B,9,4,9,7,4,Detractor,-54,Stuff Return Would Individual Policy Rule.,25-Apr-25
+10026,Middle Aged,35–44,Male,North,High,Ad_B,2,1,10,9,3,Detractor,-62,Approach Share Accept After Section.,7-Jun-25
+10027,Middle Aged,35–44,Non-Binary,South,High,Ad_B,3,9,2,10,5,Detractor,-73,Ok Choice Tonight Beautiful Enjoy.,30-May-25
+10028,Young Adult,25–34,Male,North,High,Ad_B,4,6,3,9,3,Detractor,-52,Next Tree Material Dream Point Pull Point Open Of Thank.,22-Mar-25
+10029,Older,45–54,Male,South,Middle,Ad_A,10,1,10,10,2,Promoter,63,Experience Indicate Another Hotel.,3-Apr-25
+10030,Older,45–54,Female,West,Low,Ad_A,1,1,2,3,1,Promoter,24,Mrs Performance Person Government Phone Between Produce Thought Stuff Draw.,15-Mar-25
+10031,Middle Aged,35–44,Female,West,High,Ad_A,7,6,3,5,3,Detractor,-88,Fear Become Can Street Talk Natural List Serious Though Sell.,5-May-25
+10032,Older,45–54,Non-Binary,East,Middle,Ad_A,2,4,6,8,3,Detractor,-65,Ahead Approach Audience Option Full Resource Range.,1-Jun-25
+10033,Older,45–54,Female,West,Middle,Ad_B,5,4,9,8,2,Detractor,0,Science Those Him Woman Social Yourself Move Hair Citizen Policy Hour.,17-May-25
+10034,Young,18–24,Non-Binary,South,Middle,Ad_B,1,6,9,4,1,Detractor,-75,Stand Blood Range Evidence.,7-May-25
+10035,Middle Aged,35–44,Female,West,High,Ad_B,3,7,7,1,1,Detractor,-15,Or Small Discussion Partner Lose Operation Responsibility White.,24-Apr-25
+10036,Older,55+,Male,East,Low,Ad_A,2,9,3,1,5,Detractor,-97,Thousand Party Born Point Black Clearly.,4-May-25
+10037,Middle Aged,35–44,Non-Binary,North,High,Ad_B,1,10,4,4,3,Detractor,-19,Game Their Charge Debate Most Item Type Skill.,26-Apr-25
+10038,Older,55+,Non-Binary,South,High,Ad_B,7,5,6,6,1,Promoter,91,Detail Management Question Environment Option Be Call Early.,19-May-25
+10039,Young,18–24,Male,North,Low,Ad_B,5,9,5,8,1,Promoter,65,Pull Matter Mrs Relationship One Statement Year Defense Condition Response.,1-Apr-25
+10040,Young Adult,25–34,Non-Binary,East,Low,Ad_A,1,4,2,6,4,Promoter,26,War Yet Mission Nature Note Parent Street Consider.,7-Jun-25
+10041,Older,45–54,Non-Binary,East,Low,Ad_B,6,10,6,9,4,Detractor,-13,Money Hand Nearly Me Need Put Movement Once.,10-Apr-25
+10042,Young,18–24,Female,East,Middle,Ad_A,5,2,3,9,1,Promoter,26,Up Option Dog Factor Situation Under Example Sound How Sign.,11-Mar-25
+10043,Older,45–54,Non-Binary,North,Low,Ad_A,3,3,8,2,5,Promoter,19,Like Image Conference Respond Show Edge Particular.,16-May-25
+10044,Young Adult,25–34,Male,North,High,Ad_A,7,1,2,10,1,Detractor,-79,Word Push Tv Decide Face Stay Happen.,2-Jun-25
+10045,Young Adult,25–34,Female,North,Low,Ad_A,10,6,1,1,2,Promoter,29,Car Listen Point Leader Hour.,3-May-25
+10046,Young,18–24,Female,North,High,Ad_B,9,6,9,2,3,Detractor,-70,Same Media Artist Accept On Word Have Mention Nothing.,22-Apr-25
+10047,Young Adult,25–34,Male,East,Middle,Ad_A,9,1,3,5,5,Promoter,18,Rock Have Know Present Dream Recently Everybody Follow Budget Television.,31-May-25
+10048,Older,55+,Male,East,High,Ad_A,9,3,1,4,2,Detractor,-90,Which Cut Plant Who Interesting.,29-Apr-25
+10049,Young Adult,25–34,Female,South,High,Ad_B,2,5,7,4,5,Detractor,-55,Hand Support Receive Technology Effort Speak Law Music Clearly.,18-May-25
+10050,Older,45–54,Non-Binary,South,Low,Ad_B,3,3,10,9,2,Detractor,-5,Instead Career Member Late Assume Mrs Weight.,2-May-25
+10051,Older,45–54,Female,North,Low,Ad_A,7,10,5,8,3,Promoter,89,Truth All Last Natural Possible.,29-Apr-25
+10052,Older,45–54,Male,West,High,Ad_B,5,3,5,6,3,Promoter,96,Less Really Civil Value Herself.,13-Apr-25
+10053,Older,45–54,Female,West,Low,Ad_A,2,10,1,1,4,Promoter,91,Ball Expect Of Need Space Lawyer Piece Speak Require Cup.,15-May-25
+10054,Older,55+,Male,East,Middle,Ad_A,10,3,9,2,2,Detractor,-91,Early A Pull Appear Time Gun Nothing It Task Position.,25-May-25
+10055,Middle Aged,35–44,Female,East,Middle,Ad_A,6,5,7,6,4,Promoter,67,Interesting Interest Large Purpose New Down View Too Plan.,20-Apr-25
+10056,Young,18–24,Non-Binary,East,Low,Ad_A,7,5,8,2,2,Promoter,27,Address Already Among Carry Newspaper Single Sport Dinner.,16-Mar-25
+10057,Older,45–54,Female,South,Middle,Ad_B,9,4,9,10,4,Promoter,51,Short Total Enough Technology Read Threat.,24-Mar-25
+10058,Young Adult,25–34,Female,South,Low,Ad_A,1,1,6,5,3,Detractor,-2,Protect Bar Thank Senior Activity.,15-May-25
+10059,Older,45–54,Male,East,High,Ad_B,7,5,5,5,5,Promoter,71,Goal Establish Start Whatever Past Whole Successful We Brother.,7-Jun-25
+10060,Young Adult,25–34,Unknown ,East,High,Ad_B,8,10,6,6,4,Promoter,11,Interest Late Recently Little Across.,29-May-25
+10061,Young Adult,25–34,Male,East,Middle,Ad_B,3,5,2,6,2,Detractor,-41,Your Other News Significant Radio Enter Which Guess.,13-May-25
+10062,Older,45–54,Female,West,Low,Ad_B,4,4,4,2,2,Promoter,89,Mrs Able Important Job Too His Human Probably Himself Republican.,20-May-25
+10063,Older,55+,Non-Binary,South,Low,Ad_A,10,6,3,10,3,Detractor,-14,Management Particular And Owner Body Large Wrong Choice.,13-May-25
+10064,Young Adult,25–34,Male,West,Middle,Ad_B,6,10,7,3,2,Promoter,44,All Deep Part Remember Itself Than Party Tough.,9-Apr-25
+10065,Young Adult,25–34,Male,West,High,Ad_A,10,4,9,6,1,Detractor,-36,Your Lawyer Unit Hard Single Land Significant Economy Foot.,29-May-25
+10066,Older,45–54,Female,East,Middle,Ad_B,7,7,5,8,5,Detractor,-44,Matter Notice Mrs Avoid Usually.,15-Mar-25
+10067,Young Adult,25–34,Male,East,High,Ad_B,4,7,6,1,4,Promoter,82,Again Understand It Visit Radio Degree Red Cell Plant.,18-Apr-25
+10068,Young Adult,25–34,Non-Binary,North,Low,Ad_A,8,2,10,1,5,Detractor,5,Parent Word College Worker Compare Month Go.,30-May-25
+10069,Older,45–54,Non-Binary,North,High,Ad_A,5,3,2,2,3,Promoter,80,Century Pick Determine Personal Open Other Individual Traditional Around.,12-Mar-25
+10070,Older,45–54,Male,West,Middle,Ad_A,1,1,3,6,4,Promoter,83,Effort Turn Office Body Save Say Suddenly.,6-Apr-25
+10071,Young,18–24,Male,South,Low,Ad_B,4,8,3,9,4,Detractor,-92,Heavy Beyond Throw Form Message Like Understand Describe.,29-Mar-25
+10072,Older,55+,Female,East,Middle,Ad_B,3,9,9,4,1,Detractor,-79,Stay Month Recognize Population Company.,7-Apr-25
+10073,Older,55+,Non-Binary,East,Middle,Ad_A,9,4,7,3,3,Promoter,40,Black Seek Feel Lose End Suddenly Contain By Interest.,29-Mar-25
+10074,Young Adult,25–34,Non-Binary,West,High,Ad_A,8,6,8,8,2,Detractor,-12,Out Public Center Loss Bad.,3-Jun-25
+10075,Older,55+,Male,North,Middle,Ad_A,1,9,10,10,1,Promoter,75,Contain Positive Research Figure Business.,16-Mar-25
+10076,Young Adult,25–34,Female,South,High,Ad_A,6,6,9,9,1,Detractor,-83,Real Worry Live Story Similar Pull Party Should.,27-May-25
+10077,Young,18–24,Non-Binary,North,Low,Ad_B,9,9,6,5,5,Promoter,14,Suddenly Six Church A Purpose Feeling Sort Amount.,2-May-25
+10078,Older,45–54,Non-Binary,North,High,Ad_A,7,4,4,2,5,Promoter,67,Artist Pull Happy Coach Cost Memory.,26-Mar-25
+10079,Older,45–54,Female,North,Low,Ad_A,4,8,1,3,5,Promoter,44,Stay New Reality Play Small Fly Hit Town.,28-Mar-25
+10080,Older,45–54,Female,North,High,Ad_A,2,9,8,7,1,Promoter,42,Fast Race Rock Certainly Record Rise.,1-May-25
+10081,Older,55+,Non-Binary,East,Middle,Ad_A,5,4,7,7,2,Detractor,5,Among Painting Candidate Security Finish Upon Add Plant Cup Property.,6-Jun-25
+10082,Young,18–24,Non-Binary,East,High,Ad_B,5,5,2,6,4,Detractor,-86,Property Control Lot Market Discussion According Ten.,18-Apr-25
+10083,Older,55+,Female,North,High,Ad_A,8,8,8,6,5,Detractor,-38,Officer Go Song Idea Yeah Now Development.,24-Mar-25
+10084,Older,55+,Non-Binary,South,Low,Ad_B,6,10,5,2,2,Promoter,66,Than Ever Specific Build Spend Popular Fall.,12-Apr-25
+10085,Young,18–24,Male,West,Middle,Ad_A,8,6,7,10,3,Detractor,-88,Meet Her Contain Lot Base A Magazine Else.,7-Apr-25
+10086,Young,18–24,Male,South,High,Ad_A,2,7,4,6,5,Detractor,-20,Summer Total Any Perhaps Item Meet Customer.,30-Apr-25
+10087,Young,18–24,Female,South,Middle,Ad_B,3,3,5,4,4,Detractor,-69,Learn Mean Should Father Hold Behind Lose Line What How.,3-Apr-25
+10088,Young,18–24,Female,South,High,Ad_A,10,7,8,3,3,Promoter,36,Movie Understand Film Everyone Necessary.,16-Apr-25
+10089,Older,45–54,Female,North,High,Ad_B,3,8,1,2,3,Detractor,-61,High Organization Offer Or Budget Should.,25-Mar-25
+10090,Middle Aged,35–44,Male,East,Middle,Ad_B,6,10,1,1,4,Promoter,47,Administration Cup They Science Treatment.,2-Apr-25
+10091,Middle Aged,35–44,Unknown ,South,High,Ad_A,6,6,4,5,5,Detractor,-54,Assume Who Open Example True Cold Reality Participant.,30-Mar-25
+10092,Young,18–24,Male,North,Middle,Ad_B,2,10,3,2,1,Detractor,-24,Purpose Argue Cover Girl Have School Worry Win Citizen Operation.,21-May-25
+10093,Middle Aged,35–44,Non-Binary,South,High,Ad_B,7,9,10,2,4,Promoter,100,Financial Family Defense Letter Sort Control Garden.,26-Mar-25
+10094,Middle Aged,35–44,Unknown ,South,Low,Ad_B,2,6,2,7,4,Promoter,90,Goal Paper According Owner Of Expert Successful Color As Really.,6-Apr-25
+10095,Young,18–24,Non-Binary,North,Middle,Ad_B,6,9,3,8,4,Detractor,-25,Nothing Usually Citizen Affect Threat Age Case Stand.,11-May-25
+10096,Middle Aged,35–44,Male,East,High,Ad_B,1,4,1,8,3,Promoter,71,Lawyer Least Career Clear Certainly.,28-Mar-25
+10097,Older,55+,Female,East,High,Ad_B,3,8,1,4,2,Detractor,-63,Condition Forget Protect Resource Really Key Themselves.,23-Apr-25
+10098,Young Adult,25–34,Male,West,Low,Ad_B,7,4,6,1,1,Promoter,87,Place Strong Treatment Instead Face Because Your Among Quite.,13-May-25
+10099,Young Adult,25–34,Non-Binary,North,Middle,Ad_B,8,2,5,7,5,Detractor,-30,Face East Claim Might Outside Road Heart Mother Task His.,14-Apr-25
+10100,Young,18–24,Male,West,High,Ad_A,6,10,8,1,5,Detractor,-53,Mission Movement Dog Skin Draw Opportunity Raise Help Training Take.,15-Apr-25
+10101,Older,45–54,Male,West,Low,Ad_A,10,9,2,4,2,Detractor,-83,Remain Unit Continue Work Building Travel Move Herself.,26-Apr-25
+10102,Young,18–24,Male,West,High,Ad_B,4,5,4,8,4,Promoter,43,Toward At Significant Meeting Special.,15-Apr-25
+10103,Older,45–54,Female,East,Middle,Ad_A,5,4,8,2,1,Promoter,82,Spend Bag Great Support Stuff Degree Carry.,22-May-25
+10104,Young Adult,25–34,Male,North,High,Ad_B,9,2,6,6,5,Detractor,-62,Stock Sort It Impact Research Class Drive Financial Subject.,23-Mar-25
+10105,Young,18–24,Female,West,High,Ad_B,7,1,1,6,5,Promoter,95,Me Expert Under One Want Prove Newspaper.,20-May-25
+10106,Older,55+,Female,North,High,Ad_A,10,7,4,9,4,Promoter,86,Consumer Everybody Tend What Apply Away Letter Degree Responsibility Notice.,24-Mar-25
+10107,Middle Aged,35–44,Male,North,High,Ad_B,9,6,1,5,2,Detractor,-12,Agree Firm If Under Music Population.,11-Mar-25
+10108,Older,45–54,Male,East,Low,Ad_B,7,2,2,10,1,Detractor,-39,Break Community Player Just When Miss Tree Story Person Ball.,20-Mar-25
+10109,Middle Aged,35–44,Male,West,Low,Ad_B,1,8,5,4,2,Promoter,40,Each Every World Magazine Take Scientist Official Stop.,3-Jun-25
+10110,Middle Aged,35–44,Non-Binary,West,Middle,Ad_B,8,4,8,5,2,Passive,8,Provide Prove Music Someone Different Often My Operation.,26-Apr-25
+10111,Young,18–24,Male,North,Low,Ad_A,4,8,8,10,1,Detractor,-20,Road Think Cultural Include Stay Buy Understand.,12-Mar-25
+10112,Middle Aged,35–44,Female,South,Low,Ad_B,3,7,3,5,1,Promoter,33,Go Pattern Road Church Move South To Alone.,30-Apr-25
+10113,Older,55+,Male,East,Middle,Ad_B,7,5,4,8,5,Detractor,-24,Together Power End Late Leader.,22-Mar-25
+10114,Middle Aged,35–44,Non-Binary,East,Low,Ad_B,3,10,10,10,5,Promoter,87,Herself Sister Security Air Design Avoid.,9-May-25
+10115,Young,18–24,Male,East,Low,Ad_A,8,10,6,8,1,Detractor,-11,Certainly Might Onto Not Drug Degree.,15-May-25
+10116,Older,55+,Non-Binary,East,Middle,Ad_B,6,8,10,2,3,Detractor,-87,Memory Nearly Success Write Court Write Single.,11-Mar-25
+10117,Young Adult,25–34,Non-Binary,West,Middle,Ad_A,5,9,3,7,5,Detractor,-6,Close Main Conference Open Buy Study Enough Manage Hair Animal.,6-Jun-25
+10118,Middle Aged,35–44,Male,West,Middle,Ad_A,4,5,2,8,3,Detractor,-54,Image Girl Night Smile Adult Wall Pull Democratic.,16-May-25
+10119,Young,18–24,Female,South,High,Ad_B,8,10,6,6,1,Promoter,31,System Themselves Couple For Land Personal Behind Thus.,12-Mar-25
+10120,Young Adult,25–34,Non-Binary,East,High,Ad_B,8,5,5,5,5,Detractor,-54,View Center Learn Doctor Find Treat.,16-Apr-25
+10121,Young Adult,25–34,Male,East,Middle,Ad_A,1,2,10,9,2,Detractor,-29,Provide Beautiful Later Hour Quite Much Clearly Future Scene.,2-Jun-25
+10122,Older,45–54,Male,North,Middle,Ad_B,9,5,5,3,1,Detractor,-76,Political Their Minute Responsibility Late Leader Party Discussion Tax Capital.,24-Apr-25
+10123,Older,55+,Female,West,Middle,Ad_A,5,3,10,10,4,Detractor,-24,Drug See Audience Indicate Side.,20-Mar-25
+10124,Middle Aged,35–44,Non-Binary,East,High,Ad_A,4,7,5,4,3,Detractor,-54,Maintain Bank Raise Provide Pass Kid Organization More Authority Per Run.,29-Mar-25
+10125,Young,18–24,Non-Binary,South,High,Ad_B,6,10,10,9,1,Promoter,86,Live Room Open Play Against Picture Try Task Choice.,8-Apr-25
+10126,Older,45–54,Male,South,Low,Ad_B,6,5,5,6,1,Promoter,90,Interesting Add Later Chance Describe Feeling Fall Speech Garden.,8-Jun-25
+10127,Older,55+,Male,West,Low,Ad_A,7,8,3,8,5,Promoter,65,Mind Race Reason According Such Hold Speech Single.,20-Mar-25
+10128,Older,45–54,Female,South,Middle,Ad_A,1,1,7,7,5,Promoter,19,Space Write Exist Night Himself Box Teach Bar Yourself Others.,29-Mar-25
+10129,Older,55+,Female,South,High,Ad_A,5,3,6,2,5,Detractor,-48,Save Issue Both Answer Machine They Each Dark Glass Treatment.,25-Apr-25
+10130,Older,55+,Non-Binary,West,High,Ad_A,6,3,4,3,4,Promoter,94,Shoulder Good Since Clearly Law Brother Population Fill Air Security.,13-May-25
+10131,Middle Aged,35–44,Non-Binary,East,High,Ad_B,4,9,2,1,5,Promoter,55,Go End Hear Could Network Party Around Entire.,15-May-25
+10132,Older,55+,Male,East,Middle,Ad_B,2,5,9,9,1,Promoter,30,Exactly Before Ever Let Drug Thought To Half We.,27-Apr-25
+10133,Older,45–54,Non-Binary,South,Low,Ad_B,4,9,1,7,5,Detractor,-54,Always Life Happy Show Myself.,18-May-25
+10134,Older,55+,Female,South,Middle,Ad_B,1,9,4,1,2,Detractor,-5,Pressure Put Easy Air Itself.,3-Jun-25
+10135,Middle Aged,35–44,Female,East,Low,Ad_B,7,1,1,3,5,Promoter,65,Tend Religious Issue Decision Begin Long Approach Black Glass Skill Black.,25-Apr-25
+10136,Middle Aged,35–44,Male,West,Low,Ad_A,2,2,6,4,4,Promoter,99,Check Newspaper Support Simple Case By Mission.,4-Apr-25
+10137,Older,45–54,Female,South,Middle,Ad_B,2,5,4,5,2,Detractor,-29,Community Large Value Value.,7-Jun-25
+10138,Young Adult,25–34,Female,North,Low,Ad_B,9,4,5,3,1,Detractor,-39,Discover Wind Everything Child Set Artist Physical.,31-May-25
+10139,Young Adult,25–34,Unknown ,West,Low,Ad_B,5,10,5,3,1,Promoter,84,More Group Approach Nature Certain True Majority Happy Prevent Various.,9-May-25
+10140,Older,55+,Female,South,High,Ad_B,2,9,9,1,3,Detractor,-95,Stay Among Sing White Several Sing Foreign Manager Else.,18-Mar-25
+10141,Young,18–24,Male,South,Low,Ad_B,9,7,1,7,2,Detractor,-69,Improve Area Market Step Matter Dream Color Decision Clearly World.,29-May-25
+10142,Older,55+,Male,North,Middle,Ad_A,9,6,2,10,3,Detractor,-2,Something Catch At Good House Important.,19-Apr-25
+10143,Older,45–54,Non-Binary,North,Middle,Ad_A,1,7,6,1,2,Promoter,37,Follow Rather Cold Ready Size Focus.,28-May-25
+10144,Older,45–54,Female,East,Low,Ad_A,3,1,5,2,2,Promoter,30,Field Store Animal Trouble Southern Experience People Level Edge.,30-Apr-25
+10145,Older,45–54,Non-Binary,West,High,Ad_B,4,1,7,4,4,Promoter,86,Resource Even Story Arm Mind Provide.,4-Jun-25
+10146,Older,45–54,Male,West,High,Ad_A,7,8,3,5,3,Detractor,-25,Visit Will Staff Agreement Career.,4-May-25
+10147,Older,45–54,Male,East,Low,Ad_A,10,2,3,2,4,Promoter,76,Office Light Peace Will Success Main Assume Radio High Stage.,4-Jun-25
+10148,Middle Aged,35–44,Male,West,Low,Ad_B,4,10,10,4,2,Detractor,-42,Time Box Let Them Weight War Individual.,11-May-25
+10149,Young Adult,25–34,Male,West,Middle,Ad_B,2,9,2,1,1,Detractor,-70,Study Reach Through Growth Any Easy Discuss Water.,29-May-25
+10150,Older,45–54,Male,West,Low,Ad_B,7,7,3,2,2,Detractor,-8,Look Sort Food Indeed Open Together.,23-May-25
+10151,Young,18–24,Male,West,High,Ad_A,6,6,10,1,4,Detractor,-32,Hour Time Say Fact Always.,16-Mar-25
+10152,Young,18–24,Male,West,Low,Ad_A,3,1,1,10,3,Promoter,89,Put Process Accept Right Way.,26-Apr-25
+10153,Young,18–24,Female,North,Middle,Ad_B,6,1,5,10,3,Detractor,-49,North Other Eye Guy Claim Since Show.,15-Mar-25
+10154,Young,18–24,Non-Binary,West,Middle,Ad_B,6,2,5,4,4,Detractor,-12,Knowledge Defense Weight Thank Across Hair Model Area Over.,30-Apr-25
+10155,Middle Aged,35–44,Male,North,Middle,Ad_A,5,6,7,4,3,Promoter,26,Tend Cell Present Necessary.,19-May-25
+10156,Young,18–24,Female,West,Middle,Ad_A,4,6,4,7,5,Promoter,68,Produce Figure Rest Across.,20-May-25
+10157,Older,45–54,Female,East,Middle,Ad_B,10,2,3,10,1,Detractor,-70,Defense Four Production History Especially Collection Gun Perform.,3-May-25
+10158,Older,55+,Non-Binary,South,Low,Ad_B,1,1,1,9,1,Detractor,-17,Adult Hold Debate Sure Everybody Movement.,8-Apr-25
+10159,Young,18–24,Male,North,Low,Ad_A,10,10,8,5,1,Detractor,-54,Use Eight Tonight Authority Race.,3-Jun-25
+10160,Middle Aged,35–44,Non-Binary,West,Low,Ad_B,6,5,3,10,3,Promoter,49,Vote Almost Television General Baby Discussion Career By Kitchen Across.,22-Mar-25
+10161,Middle Aged,35–44,Male,East,Low,Ad_A,2,5,2,1,3,Promoter,31,Organization Most Water Seat Leave Adult.,11-Mar-25
+10162,Young,18–24,Female,South,Middle,Ad_A,3,2,4,1,2,Detractor,-88,Theory There See He.,26-May-25
+10163,Older,55+,Female,North,High,Ad_A,8,6,3,6,2,Detractor,-56,Skill Have Nice Century Democratic.,11-May-25
+10164,Young,18–24,Female,South,Low,Ad_A,10,9,1,2,1,Promoter,26,Republican Once Wonder Where General Anyone Site Ago.,18-Mar-25
+10165,Middle Aged,35–44,Female,East,High,Ad_B,6,2,3,8,5,Promoter,69,Determine That Keep Rise Of International Report.,21-Mar-25
+10166,Young Adult,25–34,Non-Binary,North,Low,Ad_B,3,10,2,9,2,Promoter,13,Call Sell Government Gun.,22-May-25
+10167,Older,45–54,Male,South,Low,Ad_A,7,2,8,4,2,Detractor,-54,Theory Through Say List Score Activity Bag Start Cold Growth.,27-May-25
+10168,Middle Aged,35–44,Male,West,High,Ad_A,9,3,6,5,3,Detractor,-81,Citizen Crime Opportunity Wind Model Ready Level Fast.,5-Apr-25
+10169,Young,18–24,Non-Binary,North,Middle,Ad_A,5,7,9,8,5,Detractor,-20,Difficult Exactly House Thus Prove Since Less Within Great Major.,16-May-25
+10170,Older,45–54,Male,South,Low,Ad_A,3,6,8,3,1,Promoter,81,Item System Suggest Newspaper Quite.,15-May-25
+10171,Young,18–24,Female,East,Low,Ad_A,2,8,10,5,2,Promoter,63,Especially Difficult Agree Almost Now.,8-May-25
+10172,Young,18–24,Male,East,Low,Ad_B,2,8,3,3,5,Promoter,28,Enter Bag To Occur Movement Leg Likely Century Forget Anyone.,23-Mar-25
+10173,Young Adult,25–34,Female,North,High,Ad_B,3,6,5,10,5,Promoter,42,Respond Fear Guess Mission Page Off Write Hear Agree Knowledge Statement.,25-Apr-25
+10174,Older,45–54,Non-Binary,South,Middle,Ad_B,2,10,7,3,1,Detractor,-84,Why All Water Choice One.,22-Mar-25
+10175,Older,45–54,Male,North,High,Ad_B,4,3,5,3,5,Promoter,51,Kid Owner Note Describe It Traditional Discussion Rock.,29-Mar-25
+10176,Young Adult,25–34,Non-Binary,North,High,Ad_A,2,3,8,7,5,Detractor,-43,Student Heart Mouth Leave Detail Concern.,25-Apr-25
+10177,Middle Aged,35–44,Male,South,Middle,Ad_A,10,1,5,7,5,Detractor,-29,Management Analysis Wall Spring Teach Leg Forward.,3-Apr-25
+10178,Young,18–24,Female,South,High,Ad_A,9,7,1,7,2,Passive,8,Should Wish Beautiful Level Ago Rest Parent Hear Late.,12-Mar-25
+10179,Older,55+,Non-Binary,West,Middle,Ad_A,2,5,5,10,1,Detractor,-78,Voice Level Article Really If Change.,14-Apr-25
+10180,Young,18–24,Male,South,Low,Ad_A,9,4,4,8,5,Promoter,73,Friend Major Response Left Dinner Country Accept Central.,24-Apr-25
+10181,Young,18–24,Unknown ,East,Middle,Ad_B,6,10,6,5,5,Detractor,-29,City Effect Accept Especially Difference Full Performance Score.,22-Mar-25
+10182,Middle Aged,35–44,Non-Binary,North,Low,Ad_A,1,4,3,5,2,Detractor,-93,Strategy Record Senior Wonder Risk Attack Set.,21-Mar-25
+10183,Young,18–24,Non-Binary,North,High,Ad_B,4,4,5,4,1,Detractor,-42,Question Modern Quality Real Vote Soon Both By.,20-May-25
+10184,Young Adult,25–34,Male,East,High,Ad_B,1,6,2,4,3,Promoter,10,Him Off Building Debate.,22-Apr-25
+10185,Young Adult,25–34,Male,South,Low,Ad_B,6,8,6,2,2,Promoter,86,Onto Long Meeting Institution Industry Make Sister Short.,13-Mar-25
+10186,Older,45–54,Male,East,High,Ad_B,4,8,6,4,1,Detractor,-88,Move Country Everyone Along Model Despite.,20-May-25
+10187,Older,55+,Female,East,Middle,Ad_A,3,5,5,8,5,Promoter,66,Third Condition Well Sister Crime Push Break Second.,5-Jun-25
+10188,Young,18–24,Male,West,Low,Ad_B,3,6,6,9,1,Promoter,55,American Start Recognize Condition Especially They Who These Account.,27-May-25
+10189,Young,18–24,Non-Binary,East,High,Ad_B,9,4,7,3,1,Promoter,88,Arm Agent Baby Building.,25-Apr-25
+10190,Middle Aged,35–44,Non-Binary,North,Low,Ad_B,6,9,5,7,1,Detractor,-85,Run Include Million Mr Born Himself Cause Concern.,2-Apr-25
+10191,Young Adult,25–34,Male,East,Middle,Ad_A,5,8,1,9,3,Promoter,18,She Close Run Mention.,25-Apr-25
+10192,Older,55+,Male,North,Middle,Ad_A,2,10,8,4,1,Detractor,-99,Still Father Central Woman Everybody Safe Where Gun.,25-May-25
+10193,Older,45–54,Non-Binary,North,High,Ad_A,5,10,4,10,3,Promoter,44,Theory At Republican Stage Particular Nothing Left Note.,28-Mar-25
+10194,Young Adult,25–34,Female,North,Middle,Ad_B,2,1,9,5,5,Detractor,-71,Its Energy Significant Its Cultural Sea Option.,26-Apr-25
+10195,Older,45–54,Male,South,Low,Ad_B,4,2,10,1,3,Detractor,2,Right With Television For Against Nature Knowledge Thought Lead.,30-May-25
+10196,Middle Aged,35–44,Male,West,Middle,Ad_A,4,9,6,3,5,Detractor,-88,On Player Expert Wear We Within High New Production.,30-Apr-25
+10197,Middle Aged,35–44,Non-Binary,North,Low,Ad_B,4,8,1,8,5,Detractor,-5,Time Call Movie Community President Former Poor Wind.,21-May-25
+10198,Young,18–24,Male,North,Low,Ad_A,2,3,3,4,3,Detractor,-7,Article Shake Remain Oil Role Threat.,26-Mar-25
+10199,Older,55+,Female,South,Middle,Ad_A,6,8,3,2,2,Detractor,-19,Specific Understand One Machine Challenge Cup Her Station Get.,3-May-25
+10200,Older,45–54,Non-Binary,North,High,Ad_B,2,1,10,8,4,Detractor,-88,Effect Customer Consider Indeed Certainly Kitchen Play Clearly.,28-Mar-25
+10201,Young Adult,25–34,Male,East,Middle,Ad_B,7,10,4,8,1,Promoter,70,Future Side Man Network Fear Range Appear.,17-Mar-25
+10202,Middle Aged,35–44,Non-Binary,East,Low,Ad_B,3,4,6,10,4,Detractor,-54,Organization Close Truth Social After Sound Around.,30-Mar-25
+10203,Young,18–24,Male,West,Low,Ad_B,3,3,7,4,1,Promoter,48,Describe Mother Morning Set Already Full.,9-May-25
+10204,Young,18–24,Male,North,Middle,Ad_A,5,6,10,3,1,Promoter,11,Though Imagine Left Trade Employee Usually Large Section War.,4-Jun-25
+10205,Older,45–54,Male,South,High,Ad_A,3,7,4,2,5,Detractor,-46,Father Contain Decade Her Enter Fill Door Special Forget.,30-May-25
+10206,Middle Aged,35–44,Female,East,High,Ad_A,2,4,6,9,1,Detractor,-20,Rise Begin Particular Part Because Away Them Above He Increase.,25-Apr-25
+10207,Older,55+,Female,South,Low,Ad_A,10,7,1,7,1,Promoter,67,Guy Watch Quite Force With Environmental Rule Certain Data Treatment.,21-May-25
+10208,Middle Aged,35–44,Non-Binary,South,Low,Ad_A,9,9,8,5,3,Promoter,15,Person The Administration Natural Series Woman Purpose Safe Board.,20-Mar-25
+10209,Older,45–54,Male,East,High,Ad_B,2,2,7,8,4,Promoter,42,Such Contain South One Act Turn Room Walk Down Spend.,23-Mar-25
+10210,Older,45–54,Male,South,Middle,Ad_A,2,3,9,4,3,Promoter,100,Job Financial Under Performance.,15-May-25
+10211,Middle Aged,35–44,Female,East,Low,Ad_A,8,5,3,7,1,Promoter,79,Themselves Hand Cup Wear Without Great Bring Key Husband House.,11-May-25
+10212,Older,45–54,Male,South,Low,Ad_A,9,3,2,5,5,Passive,7,It Doctor South Environment Affect.,27-Apr-25
+10213,Middle Aged,35–44,Female,East,High,Ad_B,7,8,1,5,3,Detractor,-48,Race Organization Sit Poor Word Military Number White.,11-Mar-25
+10214,Young Adult,25–34,Male,North,Middle,Ad_B,3,10,3,9,3,Promoter,27,Show Product Address High News First Owner Nation Occur Western Here.,15-Mar-25
+10215,Middle Aged,35–44,Non-Binary,West,High,Ad_B,9,8,5,9,2,Promoter,79,Spend Floor Current Available Central Question Walk Can.,24-May-25
+10216,Middle Aged,35–44,Male,East,Middle,Ad_B,3,8,2,9,1,Promoter,57,May Network International Many Price.,20-May-25
+10217,Older,45–54,Male,East,Middle,Ad_A,5,9,3,6,5,Promoter,60,Support Whatever Arm Else Newspaper Grow Whatever Factor Rather.,18-May-25
+10218,Older,45–54,Female,West,Middle,Ad_A,9,4,4,6,3,Detractor,-44,Energy Yes Above Cell Wall Walk Him Yard Which Culture.,1-May-25
+10219,Young,18–24,Male,East,Low,Ad_B,3,5,7,5,3,Detractor,-49,Term Fish Black Add Might Difference.,23-Apr-25
+10220,Young,18–24,Male,East,High,Ad_B,7,5,3,9,5,Promoter,36,Argue Late Technology Water Firm Require Half.,18-Mar-25
+10221,Young Adult,25–34,Female,South,High,Ad_A,1,8,9,10,1,Promoter,81,Nature Perform Response Two Sense Question Town Seem.,11-May-25
+10222,Young,18–24,Non-Binary,West,Middle,Ad_A,4,7,8,8,2,Promoter,10,Professional Lay Figure Use Until Especially.,5-Jun-25
+10223,Middle Aged,35–44,Non-Binary,North,Low,Ad_B,4,9,4,7,3,Detractor,-100,Ready You Lot Commercial Myself Everyone Certainly Three Which.,31-Mar-25
+10224,Older,45–54,Female,East,Low,Ad_B,8,8,1,7,2,Detractor,-57,Professor These Security Address Position Expert Performance Those.,27-Apr-25
+10225,Young,18–24,Female,West,High,Ad_B,1,2,1,6,4,Detractor,-26,Themselves Since Else Investment Bar.,5-Apr-25
+10226,Young,18–24,Female,South,Low,Ad_B,5,10,1,4,1,Detractor,-3,Very Effort Perhaps Lawyer Respond Floor Move.,28-Apr-25
+10227,Young Adult,25–34,Female,North,Low,Ad_A,7,4,1,3,4,Detractor,-92,Price Most Hospital Task.,4-Jun-25
+10228,Young Adult,25–34,Female,West,Middle,Ad_A,4,6,8,3,4,Detractor,-69,Too Enter Guess When Above Class Bad Clear.,12-Mar-25
+10229,Middle Aged,35–44,Non-Binary,North,Low,Ad_A,4,2,3,6,4,Detractor,-86,Friend Game Piece Down Husband Sing Gun Policy Game.,25-Mar-25
+10230,Older,45–54,Non-Binary,North,Middle,Ad_B,4,7,6,4,1,Promoter,39,Hair Nature Loss See Former.,10-Apr-25
+10231,Young Adult,25–34,Female,North,High,Ad_B,6,3,3,6,1,Promoter,84,Anyone Certainly Sound Final Large Feel Feeling Film Sometimes.,23-Mar-25
+10232,Young,18–24,Male,East,Low,Ad_A,7,3,5,3,5,Promoter,35,Interesting Thousand Decide Call Response.,23-May-25
+10233,Older,45–54,Female,East,High,Ad_A,2,2,7,4,2,Detractor,-29,Room Condition Action Hospital Draw.,18-May-25
+10234,Older,45–54,Male,South,High,Ad_A,5,8,2,9,2,Promoter,54,Cell Start Final Share Into End List Must Board.,28-Apr-25
+10235,Young,18–24,Female,South,Low,Ad_A,4,6,6,5,5,Promoter,89,Listen Experience Paper Language Reach Learn Page.,30-Mar-25
+10236,Young Adult,25–34,Female,West,Low,Ad_B,3,1,6,10,5,Detractor,-89,Key Assume Show Could Off Role He Leader Expect Heavy.,23-Apr-25
+10237,Young,18–24,Non-Binary,South,High,Ad_A,7,1,3,2,4,Detractor,-36,Education Strategy Center Full Region.,17-Apr-25
+10238,Older,45–54,Male,North,Low,Ad_A,6,7,6,5,5,Detractor,-54,Also Address Power Late Mission Author Simply Degree Admit During.,25-Mar-25
+10239,Older,55+,Male,North,Middle,Ad_A,7,8,10,9,3,Detractor,-59,Meet Minute Public Two Too.,15-Apr-25
+10240,Older,55+,Unknown ,East,Middle,Ad_A,5,5,10,3,2,Detractor,-54,Defense Pm Tree Magazine Reduce Science Side Time.,1-Jun-25
+10241,Middle Aged,35–44,Non-Binary,North,Low,Ad_A,6,5,5,9,5,Promoter,14,Reason Decade Building Support Discuss Sit Their Agency Suddenly Back.,9-Apr-25
+10242,Young,18–24,Non-Binary,West,High,Ad_A,5,4,2,6,3,Detractor,-54,Measure Ever Write Fill Sit Direction Include Just Material Behind.,11-May-25
+10243,Young,18–24,Non-Binary,North,Low,Ad_A,7,6,9,4,3,Detractor,2,Already Finish Crime Quickly Fill Forward Risk Risk.,28-Apr-25
+10244,Middle Aged,35–44,Male,North,Low,Ad_B,2,6,8,7,3,Promoter,70,Gas Head Forget Official Project Table Drop Language View Support.,13-May-25
+10245,Middle Aged,35–44,Male,West,High,Ad_B,5,3,3,8,3,Detractor,-6,Pm Ground Have Easy Wide Son Debate.,20-Apr-25
+10246,Middle Aged,35–44,Female,South,High,Ad_B,6,9,8,6,4,Detractor,-84,Medical Current Parent Pass Kitchen Skill Serious Discuss Fire Region.,22-Mar-25
+10247,Older,45–54,Female,South,Middle,Ad_B,6,7,9,5,3,Promoter,59,Beat Accept Follow Local Develop Sit Still My Standard Almost.,20-May-25
+10248,Young,18–24,Non-Binary,West,High,Ad_A,5,1,3,6,4,Detractor,-16,Brother Himself Option Conference Show Case Better.,7-Apr-25
+10249,Older,45–54,Non-Binary,East,Middle,Ad_B,10,7,3,5,4,Detractor,-54,Out Property Hold Ask Seem Camera Performance During.,10-May-25
+10250,Middle Aged,35–44,Non-Binary,North,High,Ad_B,7,5,2,8,3,Promoter,50,Wife Lead Each Commercial Eat Republican.,13-Mar-25
+10251,Young,18–24,Female,West,Low,Ad_A,10,5,8,7,2,Detractor,-45,Small Fact Medical Body Include Administration Somebody Son Sister However.,22-May-25
+10252,Older,45–54,Female,North,Middle,Ad_A,8,2,10,10,3,Detractor,-54,Newspaper Behind Fact Lawyer Only.,19-May-25
+10253,Older,45–54,Female,East,Middle,Ad_B,7,4,1,10,3,Detractor,-15,Night Democrat Possible Better Scene Call Degree Student Song.,15-Apr-25
+10254,Middle Aged,35–44,Female,North,Middle,Ad_B,5,6,8,2,3,Promoter,77,Tough View Writer Strategy Skill Over Media Probably Continue.,23-May-25
+10255,Young,18–24,Female,West,Low,Ad_A,1,10,7,9,2,Detractor,1,Improve Point Interesting Top Get Hear Add Drive.,26-May-25
+10256,Middle Aged,35–44,Female,North,Low,Ad_B,5,7,7,1,1,Promoter,64,Less Throw Bad Interesting Physical Else.,1-Apr-25
+10257,Young,18–24,Female,South,Low,Ad_A,10,5,3,10,1,Promoter,91,Piece Foot Yard Career Place Party Affect Recently Beat Game.,10-Apr-25
+10258,Older,55+,Non-Binary,East,Low,Ad_A,2,9,1,6,4,Detractor,-47,Yes Recognize Process Laugh Rule At Trade Meeting Majority All.,5-Apr-25
+10259,Young Adult,25–34,Non-Binary,East,Low,Ad_A,5,3,4,9,4,Promoter,99,Buy Heart Just People Season.,17-Apr-25
+10260,Young Adult,25–34,Non-Binary,East,Middle,Ad_A,5,1,9,1,2,Promoter,76,Style Several Middle Dream Your Those Popular What Later.,23-May-25
+10261,Young Adult,25–34,Non-Binary,West,Low,Ad_B,5,4,5,4,5,Promoter,14,Agreement After Free Behavior Month This Wish.,19-Mar-25
+10262,Middle Aged,35–44,Female,East,Middle,Ad_A,4,9,1,4,1,Promoter,38,Fill Institution Share Customer Side Second Culture.,29-Mar-25
+10263,Older,55+,Male,South,Low,Ad_A,1,4,5,9,4,Detractor,-13,Herself Recent Several Coach Best Blue One.,16-May-25
+10264,Young,18–24,Female,West,High,Ad_B,3,2,8,5,1,Detractor,-52,Trouble Do High Fly Always High Citizen Hospital.,11-May-25
+10265,Older,45–54,Male,South,Middle,Ad_A,1,10,8,5,2,Promoter,48,Decision Technology Guy Teach By Song Beyond Laugh Source Expert.,6-May-25
+10266,Young,18–24,Non-Binary,North,High,Ad_B,5,5,5,6,2,Promoter,14,It Put See At Artist Thought.,19-Apr-25
+10267,Older,45–54,Female,North,Middle,Ad_B,4,3,9,1,5,Promoter,93,Toward Under Attack Professional Back.,4-Apr-25
+10268,Young,18–24,Non-Binary,North,High,Ad_B,7,9,1,1,5,Detractor,-38,Picture Staff Up Small Customer.,11-May-25
+10269,Older,55+,Female,North,Low,Ad_A,5,4,4,9,2,Detractor,3,Person Its Ok Available Color Form Half System Their Else.,6-May-25
+10270,Older,45–54,Non-Binary,South,Low,Ad_B,10,6,3,3,4,Detractor,-18,Network Around Only Issue Table Entire.,15-May-25
+10271,Middle Aged,35–44,Male,West,Low,Ad_B,4,2,2,4,1,Detractor,2,Clear Garden Board Know Various Score Gun Describe Important Loss.,30-May-25
+10272,Young,18–24,Male,West,Middle,Ad_A,2,6,8,1,3,Promoter,55,Bring Great Red Quality Fear Form Network.,19-Mar-25
+10273,Young,18–24,Male,East,High,Ad_B,4,3,7,9,5,Detractor,-84,Scene Occur Outside Know Beyond This Beautiful.,3-Jun-25
+10274,Older,45–54,Female,South,Low,Ad_B,2,9,9,8,3,Detractor,-95,Face Lead Party Garden Without Score Like Eight Happy Of.,15-Mar-25
+10275,Middle Aged,35–44,Male,North,High,Ad_B,8,2,2,2,4,Promoter,46,Old Could Mission Car Story Radio Million.,8-Apr-25
+10276,Middle Aged,35–44,Female,South,High,Ad_B,3,9,4,8,5,Promoter,83,Option Father Sure Exactly Admit Example Never Sound Meeting.,5-Apr-25
+10277,Older,55+,Male,East,Low,Ad_B,9,5,6,6,3,Detractor,-73,Sound Test Yet Reason Well.,26-May-25
+10278,Middle Aged,35–44,Male,East,Low,Ad_A,4,8,3,1,4,Promoter,93,Option His Dog Spring Mother Clearly Run Less Support Group Surface.,16-May-25
+10279,Middle Aged,35–44,Female,South,High,Ad_B,6,2,8,10,1,Detractor,-63,Usually Respond Explain Political Contain Approach Way Myself Red.,25-Mar-25
+10280,Middle Aged,35–44,Female,South,Low,Ad_B,10,6,3,7,4,Promoter,18,Item Trade Without Citizen How Consider Strong Case Identify Mention.,20-May-25
+10281,Young Adult,25–34,Male,South,Low,Ad_A,5,3,2,9,5,Detractor,-64,Stage Conference Matter Concern Room Well When.,21-Mar-25
+10282,Older,55+,Female,West,Low,Ad_A,10,10,3,1,2,Promoter,14,Figure Really Of Message.,21-Mar-25
+10283,Young,18–24,Male,North,Middle,Ad_A,1,5,6,2,1,Detractor,-33,Pay Government Would Front Accept.,31-May-25
+10284,Older,45–54,Female,South,High,Ad_B,9,8,2,9,3,Promoter,76,Property During Would Game Item.,28-Mar-25
+10285,Young,18–24,Non-Binary,South,High,Ad_A,1,10,8,9,5,Detractor,-58,Military Should Material Media Conference They Attack.,25-Mar-25
+10286,Older,55+,Non-Binary,South,Middle,Ad_B,8,1,1,6,2,Promoter,63,Organization Data Like Left Image Certain Lot.,23-May-25
+10287,Older,45–54,Non-Binary,East,High,Ad_B,9,5,7,6,4,Detractor,-43,Region Happy Maybe Significant Soon Role Head Talk Body Significant Issue.,28-Mar-25
+10288,Older,55+,Non-Binary,East,Low,Ad_A,9,3,2,4,2,Detractor,-88,Ready Fire Type Plant Thought Who There Girl.,31-Mar-25
+10289,Middle Aged,35–44,Non-Binary,West,High,Ad_A,2,4,10,4,5,Detractor,-49,Task Couple Goal Hard Happy When.,10-Apr-25
+10290,Older,45–54,Male,North,Low,Ad_B,1,2,6,5,5,Detractor,-43,Listen Manager Its Apply.,5-Jun-25
+10291,Middle Aged,35–44,Non-Binary,West,Middle,Ad_A,10,9,2,3,2,Detractor,-69,Ball Maybe Company Will Always Least Her My Want Art.,2-May-25
+10292,Young,18–24,Non-Binary,North,Low,Ad_B,2,3,2,1,4,Detractor,4,Security Technology Certainly Finally Possible Note Environmental There Past Nor About.,17-Mar-25
+10293,Young,18–24,Non-Binary,East,High,Ad_A,10,2,10,7,2,Promoter,87,Turn Five Front Media Suggest Style Floor Old.,15-May-25
+10294,Older,45–54,Non-Binary,East,High,Ad_A,8,10,8,1,5,Detractor,-18,Value Sound Cold Stay Unit Near Class.,7-Apr-25
+10295,Older,45–54,Female,East,High,Ad_A,5,9,2,1,5,Promoter,85,Mrs Memory Lose Recognize Success Whatever Participant Nor.,26-Apr-25
+10296,Older,55+,Male,West,Middle,Ad_B,2,7,7,3,3,Detractor,-2,Be Take Owner Section Sense Soon Hot Billion Camera.,11-Mar-25
+10297,Older,55+,Non-Binary,South,Middle,Ad_A,8,6,3,10,3,Detractor,3,Most On Job Follow Task Paper Success Already Someone Science.,9-May-25
+10298,Middle Aged,35–44,Non-Binary,South,High,Ad_B,6,1,8,4,1,Promoter,83,Student Believe Partner Population Everyone Bank At Wrong.,21-Apr-25
+10299,Older,45–54,Non-Binary,East,Low,Ad_B,8,5,7,2,5,Detractor,-73,Kid Agree Nice Strategy View Industry Majority Campaign.,27-Apr-25
+10300,Young,18–24,Male,South,Middle,Ad_B,1,3,8,1,3,Promoter,28,True Whether Small Me Decade.,1-Jun-25
+10301,Older,55+,Female,South,High,Ad_B,1,1,7,3,2,Promoter,69,Clearly Ball Test Prepare Option Represent Chance Hour.,15-May-25
+10302,Older,55+,Male,West,High,Ad_A,7,4,6,4,4,Detractor,-53,Least Star Situation Better Option Want Music First Every Positive.,1-Apr-25
+10303,Young,18–24,Female,North,Middle,Ad_B,8,2,7,3,2,Detractor,-61,Never Inside Kind In Respond None General The Record Adult Another.,20-Mar-25
+10304,Older,55+,Non-Binary,East,Middle,Ad_B,3,2,5,8,4,Detractor,-4,Skill Military Focus Happen Can Policy Dinner Unit.,17-Apr-25
+10305,Middle Aged,35–44,Non-Binary,East,Middle,Ad_A,5,3,7,10,3,Promoter,90,Before Statement Necessary Security Physical Entire Resource Attention Under.,25-Mar-25
+10306,Older,45–54,Male,West,Low,Ad_B,1,8,1,1,1,Detractor,-54,Imagine Moment Political Support Trouble Wide.,18-May-25
+10307,Young,18–24,Male,West,Low,Ad_A,7,8,1,2,2,Promoter,13,Ball Draw Maybe Successful Treat Difficult.,13-Apr-25
+10308,Older,45–54,Female,South,High,Ad_B,5,7,9,7,2,Promoter,31,Conference Similar Team Include College Shoulder Production Rise Position Modern.,5-Apr-25
+10309,Older,55+,Female,East,Middle,Ad_A,8,6,5,4,2,Promoter,65,Cell Fine Beat History Food Do Off.,11-May-25
+10310,Older,55+,Male,North,Low,Ad_B,8,9,5,8,4,Promoter,54,Small Fill Face Window Admit.,28-May-25
+10311,Young,18–24,Female,West,Middle,Ad_A,9,4,3,3,3,Promoter,36,Likely Operation Detail Heavy Boy Father Common Early Practice.,27-Mar-25
+10312,Middle Aged,35–44,Male,North,High,Ad_B,7,1,5,6,2,Promoter,10,He Science Guess Cultural Really Push.,2-Apr-25
+10313,Young Adult,25–34,Female,North,Low,Ad_B,1,8,3,9,2,Promoter,43,Seven Brother Might Discuss Since Entire.,5-May-25
+10314,Young,18–24,Male,East,Low,Ad_A,3,7,9,1,1,Detractor,-54,May Fine Hear Matter Control Street Young Pick Strong.,12-Apr-25
+10315,Young Adult,25–34,Male,East,Low,Ad_A,8,7,9,1,1,Detractor,-25,Particularly Still Couple Art Stand Commercial Material.,6-May-25
+10316,Young Adult,25–34,Unknown ,West,High,Ad_A,3,3,6,8,3,Detractor,-70,News Clearly Hold Way Main With Board Indicate.,28-May-25
+10317,Middle Aged,35–44,Female,East,Middle,Ad_A,8,4,1,3,3,Promoter,18,Management Provide Real Age Size Scene Think Player His Box.,4-Jun-25
+10318,Young Adult,25–34,Female,East,Low,Ad_B,1,10,7,5,5,Promoter,41,Learn Mind Item Necessary Find Teacher Nature Page Effort.,27-Apr-25
+10319,Young Adult,25–34,Female,East,High,Ad_B,5,9,7,1,1,Detractor,-76,Beyond Effort Training Finally Top Voice Minute.,26-Apr-25
+10320,Middle Aged,35–44,Male,North,Middle,Ad_A,4,6,10,5,5,Detractor,-67,Possible Laugh Notice Certainly Institution.,8-May-25
+10321,Young Adult,25–34,Female,West,High,Ad_B,5,5,10,6,4,Detractor,-34,Onto List Ok Worker Scientist Land Outside Image Different Community.,25-Mar-25
+10322,Young Adult,25–34,Female,South,Middle,Ad_A,10,3,4,8,5,Promoter,51,Hundred Process Plan Cold Clear Particularly.,25-Apr-25
+10323,Young Adult,25–34,Male,North,High,Ad_A,4,9,8,3,2,Promoter,17,Maybe Live Letter Box Walk Any Action Skill News Knowledge Place.,8-May-25
+10324,Young,18–24,Non-Binary,East,Middle,Ad_B,4,5,6,3,5,Detractor,-28,Dream Role Lose Far Interesting.,19-Apr-25
+10325,Young,18–24,Male,North,Low,Ad_B,3,5,4,10,3,Detractor,-75,Product True Staff Keep Beat Officer Consider Seek International These.,27-Apr-25
+10326,Young,18–24,Female,East,Middle,Ad_B,7,4,4,9,4,Promoter,47,Easy Election Out Me Research Long Spend.,10-Apr-25
+10327,Middle Aged,35–44,Male,East,High,Ad_B,3,4,2,4,2,Promoter,91,School Indicate My Detail Right Computer Prevent Require Tree Teacher.,27-Mar-25
+10328,Older,55+,Non-Binary,North,High,Ad_B,10,1,2,4,5,Detractor,3,Sell Sign Bag Teach Wife Subject Include Not.,1-May-25
+10329,Young Adult,25–34,Male,West,Middle,Ad_B,5,7,4,7,4,Detractor,-91,Then Lawyer Hair None Suffer Practice Discover Amount.,28-Mar-25
+10330,Young Adult,25–34,Female,East,Low,Ad_B,5,9,5,2,4,Detractor,-34,Condition Although Military Enough Find Almost War Subject Culture Truth.,14-Mar-25
+10331,Middle Aged,35–44,Non-Binary,West,Low,Ad_A,8,3,8,6,2,Promoter,51,Live Next Quality Fish Level Use Age Of Film Adult Nation.,30-Apr-25
+10332,Young Adult,25–34,Female,South,Middle,Ad_A,10,2,6,3,5,Detractor,-96,Mean Run Practice See Church Teach These.,26-Mar-25
+10333,Young,18–24,Non-Binary,East,Middle,Ad_A,6,3,4,9,4,Promoter,94,Total Here Similar Political Central Job.,25-May-25
+10334,Older,55+,Non-Binary,West,High,Ad_A,1,1,7,5,4,Promoter,85,Several Character Various Air Them.,5-Apr-25
+10335,Older,45–54,Male,West,Low,Ad_A,8,6,8,8,1,Detractor,-54,Up Technology Visit Film Part Campaign Go.,16-Mar-25
+10336,Young Adult,25–34,Male,South,Middle,Ad_B,8,7,2,7,4,Promoter,12,Officer Serve Test Town Bill President The Recent Media Full Mean.,29-Apr-25
+10337,Young,18–24,Female,West,Low,Ad_A,9,2,7,8,1,Detractor,-86,Will Difference Third Risk Like Authority.,15-Mar-25
+10338,Older,45–54,Male,West,Middle,Ad_A,2,8,2,7,5,Detractor,-54,Series Behavior Painting Often Subject Instead.,21-May-25
+10339,Older,55+,Male,South,Middle,Ad_A,2,6,2,3,5,Detractor,4,Already Baby Mention Market Outside Mother.,27-Apr-25
+10340,Older,45–54,Non-Binary,East,Low,Ad_A,3,4,8,2,5,Promoter,80,Force Paper Head Morning Everything Face From Threat Structure.,13-Mar-25
+10341,Young,18–24,Male,West,Middle,Ad_A,1,5,2,7,3,Detractor,-57,Nice Other Simple Court Make State Represent Fear.,30-Mar-25
+10342,Older,45–54,Non-Binary,West,Middle,Ad_A,4,8,9,3,5,Detractor,-75,Military Hand Country Suffer Billion Opportunity Two.,13-Apr-25
+10343,Middle Aged,35–44,Non-Binary,West,High,Ad_A,4,3,1,3,4,Promoter,74,Reach Hundred Election Whom White Price.,28-May-25
+10344,Older,45–54,Non-Binary,North,Middle,Ad_B,9,3,9,2,2,Promoter,61,Social Less Sister Special Anything.,12-Apr-25
+10345,Young Adult,25–34,Female,South,Middle,Ad_B,9,4,1,4,1,Detractor,-6,Top Lead Garden Usually.,19-Apr-25
+10346,Young Adult,25–34,Female,North,Middle,Ad_A,9,1,10,8,3,Promoter,77,Next Trip Hour At Husband Democratic Bar.,26-Apr-25
+10347,Middle Aged,35–44,Female,South,High,Ad_B,10,9,10,1,5,Detractor,-17,Policy Whom Kind Moment Popular Statement Most Garden Any Order.,13-May-25
+10348,Young,18–24,Non-Binary,East,Low,Ad_B,7,8,2,1,5,Promoter,39,Popular Environment Suddenly Special Because Act Provide Hold Possible.,8-Apr-25
+10349,Young Adult,25–34,Female,East,High,Ad_B,2,8,6,5,2,Promoter,31,Area Contain Stand Road State Career Especially.,19-Mar-25
+10350,Older,55+,Female,West,High,Ad_B,10,10,6,5,2,Detractor,-14,Should Many Tree Foreign Me Republican Agreement.,1-Apr-25
+10351,Young Adult,25–34,Male,South,Low,Ad_A,5,6,1,1,3,Promoter,75,Financial You Public Teacher Red Despite Blue.,12-May-25
+10352,Young Adult,25–34,Female,East,High,Ad_B,4,7,7,6,1,Promoter,82,Indeed Amount Tree Seven Particularly Scene Our Science.,17-May-25
+10353,Young,18–24,Female,South,Low,Ad_B,8,6,8,1,5,Promoter,11,While Increase Course Evidence Range Think.,27-Apr-25
+10354,Older,45–54,Non-Binary,East,High,Ad_B,2,9,2,5,3,Promoter,28,Difficult May Industry Pattern Page Certainly Discussion International Approach Total According.,17-May-25
+10355,Young Adult,25–34,Non-Binary,North,Low,Ad_A,6,3,8,9,4,Detractor,-12,Toward Weight Or Difficult Thing Sport Take They Year.,11-Mar-25
+10356,Middle Aged,35–44,Non-Binary,East,Middle,Ad_A,5,3,9,5,4,Detractor,-35,Drug Continue Cell Stay Whatever Little Image Hotel Election Already.,29-May-25
+10357,Older,45–54,Non-Binary,North,High,Ad_A,2,3,6,6,3,Promoter,57,Conference Already Save Speech Customer Event He Boy Home Focus.,18-May-25
+10358,Older,55+,Non-Binary,East,High,Ad_A,10,10,5,8,5,Promoter,30,Career Support Natural Live General Exactly Single.,3-Jun-25
+10359,Young,18–24,Non-Binary,West,High,Ad_A,1,3,9,1,3,Promoter,21,Result Important Product Family Staff During.,14-Mar-25
+10360,Older,55+,Female,North,High,Ad_A,2,9,9,2,5,Detractor,-54,Area Second Same Also Couple.,21-Apr-25
+10361,Older,45–54,Non-Binary,East,Middle,Ad_A,7,4,1,9,2,Detractor,-17,Account Why Doctor Other Serve Billion Poor.,15-Apr-25
+10362,Older,45–54,Non-Binary,West,High,Ad_B,9,7,3,3,3,Promoter,76,Remember Act Who Keep Federal Perhaps Information Section Plan Sometimes.,26-May-25
+10363,Older,45–54,Male,North,Middle,Ad_B,8,9,9,6,5,Promoter,15,Blue Expert Because Wide Society Weight Choose Mother.,18-Mar-25
+10364,Older,55+,Female,West,Middle,Ad_B,9,7,2,5,3,Promoter,89,Consumer Win Lose Own Act Catch Son Practice Determine.,28-May-25
+10365,Older,45–54,Female,South,Middle,Ad_A,2,9,4,2,3,Promoter,15,Spring Trip Size There Specific.,2-Jun-25
+10366,Older,55+,Female,South,Middle,Ad_A,6,3,4,7,5,Detractor,-63,Food Civil Thought Though Learn Sing Stuff Everybody Camera.,21-Mar-25
+10367,Older,45–54,Non-Binary,North,Low,Ad_A,4,4,2,4,5,Promoter,42,May Perhaps Language Almost Leg Case Of Compare.,20-Apr-25
+10368,Middle Aged,35–44,Non-Binary,East,Low,Ad_A,4,8,3,1,1,Promoter,9,Anything Cost Source Most Sure Benefit Help Where Buy Attention.,1-Apr-25
+10369,Older,45–54,Non-Binary,North,High,Ad_A,5,6,3,4,3,Promoter,79,Successful Though Open Dinner Fear Nation Put Although.,13-Mar-25
+10370,Older,55+,Male,West,Low,Ad_B,3,5,1,6,4,Detractor,-55,Weight Direction Civil True Tax Anything Call Fly Area.,22-Apr-25
+10371,Young Adult,25–34,Non-Binary,East,Low,Ad_B,1,4,6,7,3,Detractor,-76,Involve Go Cup College Old.,7-Apr-25
+10372,Older,45–54,Male,South,High,Ad_A,8,8,8,7,3,Detractor,-80,Structure Drug Close She Appear.,22-May-25
+10373,Young Adult,25–34,Female,East,High,Ad_A,5,1,3,7,5,Promoter,20,Station Expect Send Occur Three.,2-Jun-25
+10374,Middle Aged,35–44,Non-Binary,South,High,Ad_A,3,9,5,3,3,Promoter,21,Design Scene Management Scientist Network Magazine.,30-Apr-25
+10375,Young,18–24,Male,East,Low,Ad_A,10,1,1,6,3,Promoter,32,Team Bank Spend Religious Scene Bad Candidate.,23-Apr-25
+10376,Middle Aged,35–44,Unknown ,East,Low,Ad_B,7,8,10,4,4,Detractor,-31,Both Light Key Eye Also Read Relationship Hope.,7-Apr-25
+10377,Older,45–54,Non-Binary,East,High,Ad_A,7,4,7,8,5,Promoter,12,Live Hold Response Strong Before Ground.,22-Mar-25
+10378,Young Adult,25–34,Female,West,Middle,Ad_A,1,9,10,2,3,Detractor,6,Hotel Nothing Career Protect Training Number Law.,8-May-25
+10379,Young Adult,25–34,Female,West,High,Ad_A,9,5,1,10,2,Promoter,11,Her Natural Society Drive Five.,4-Apr-25
+10380,Older,55+,Female,North,Middle,Ad_A,2,3,9,9,1,Passive,7,Our Project Cell Technology Affect.,12-May-25
+10381,Young Adult,25–34,Male,North,Middle,Ad_B,5,9,8,9,4,Detractor,-54,Her Main Reason Series Shoulder Beyond Rich Training.,4-Jun-25
+10382,Older,55+,Male,South,High,Ad_A,5,9,7,8,3,Promoter,95,Drug Happen Low Energy Increase Many Movement Approach Today Result Training.,27-May-25
+10383,Young,18–24,Male,West,High,Ad_A,8,4,10,10,2,Detractor,-10,Size Usually List Nature Popular Summer.,12-Apr-25
+10384,Older,45–54,Male,South,High,Ad_B,8,4,7,10,3,Detractor,-83,Place Hundred Oil Something.,19-Apr-25
+10385,Older,55+,Female,North,Low,Ad_B,7,8,5,1,3,Promoter,48,Challenge None Rest Network Art One Development Security Go Edge.,5-Jun-25
+10386,Young,18–24,Non-Binary,South,Middle,Ad_B,7,2,5,2,5,Detractor,3,With Interesting Very Address Minute Information Everybody.,4-Jun-25
+10387,Young Adult,25–34,Male,North,Low,Ad_A,6,9,5,6,5,Promoter,50,Cover Whose Serve Friend Build General Serve Once Look Kitchen.,13-Apr-25
+10388,Young Adult,25–34,Male,West,Low,Ad_A,6,6,1,10,5,Promoter,91,Similar Care Class Other Month All Physical Learn.,29-Apr-25
+10389,Young,18–24,Female,East,High,Ad_B,9,9,8,5,2,Promoter,94,Strategy Single Radio Also Not Stage Rest Carry South.,17-May-25
+10390,Young Adult,25–34,Non-Binary,West,Low,Ad_B,6,8,1,9,3,Detractor,-61,Person Success Drop Partner Save.,15-May-25
+10391,Young,18–24,Non-Binary,South,High,Ad_B,2,7,4,5,1,Promoter,37,Popular Past Consumer Lose Series Car.,16-Apr-25
+10392,Older,55+,Female,South,Middle,Ad_B,2,1,9,2,4,Detractor,-12,Provide Audience Candidate All Action Stage.,8-May-25
+10393,Older,55+,Female,West,High,Ad_B,5,3,9,10,5,Promoter,79,Set Leader Alone Oil Amount College Doctor Boy Seem.,19-Apr-25
+10394,Young,18–24,Non-Binary,West,Low,Ad_B,4,2,5,4,5,Promoter,99,Dream Never Though Test Agree Nice Sometimes.,14-Apr-25
+10395,Older,55+,Male,North,Low,Ad_A,2,5,4,9,3,Detractor,-40,Meeting Drug Find Mr.,30-Apr-25
+10396,Older,55+,Non-Binary,South,High,Ad_A,3,5,3,1,3,Promoter,91,North Professor Impact Sit With.,24-Mar-25
+10397,Older,55+,Female,South,High,Ad_A,7,5,3,1,2,Detractor,-96,Name Present All Trouble Enter Become Growth Main Party Boy Force.,5-Apr-25
+10398,Middle Aged,35–44,Male,West,Low,Ad_B,8,4,5,7,2,Promoter,21,Help Fact Market Lay Perform Know Face Lead Form Gun Act.,21-May-25
+10399,Older,45–54,Male,East,Middle,Ad_B,6,5,10,3,5,Promoter,80,Rock Agree Morning Simply Without Region Important Participant Field.,20-Mar-25
+10400,Young Adult,25–34,Female,South,Middle,Ad_B,5,3,1,10,3,Detractor,-46,Increase Strong Two Person Fine Environment Student.,27-Apr-25
+10401,Middle Aged,35–44,Female,East,High,Ad_B,1,1,5,2,1,Detractor,-64,Just Exactly As Mr Foreign.,2-Apr-25
+10402,Older,55+,Female,West,Middle,Ad_B,8,5,6,9,4,Detractor,-45,Statement Form Leader Ever Bit Deep Floor First One.,19-Mar-25
+10403,Young,18–24,Non-Binary,West,Low,Ad_B,3,9,7,3,3,Promoter,86,Less Court Low Cell Include Represent Pm Respond Its.,19-May-25
+10404,Older,55+,Non-Binary,North,High,Ad_A,6,9,9,2,3,Detractor,1,Exactly Forget Current Method Most Side.,22-Mar-25
+10405,Older,45–54,Male,South,Low,Ad_A,3,4,3,8,2,Detractor,-8,Anyone Space Strategy Let Trade Section.,18-Apr-25
+10406,Older,55+,Female,East,Low,Ad_B,7,3,2,10,4,Promoter,96,Realize Leave Sit Avoid Street Above Result.,6-Jun-25
+10407,Young,18–24,Male,North,Middle,Ad_A,7,1,3,6,5,Detractor,-28,Main Face Growth Series Information Understand Plant Cut.,21-Apr-25
+10408,Older,45–54,Male,South,High,Ad_B,9,2,9,6,3,Detractor,-42,Nor Trial Country Price During Fact Build Yourself.,3-May-25
+10409,Older,55+,Male,North,High,Ad_A,5,8,7,10,5,Detractor,-99,Fact Room Generation Beautiful Its Employee Medical War Mind.,21-Apr-25
+10410,Older,45–54,Male,West,Middle,Ad_B,8,1,9,7,3,Promoter,92,Pull Wear Reflect Eight Director List.,27-Apr-25
+10411,Young Adult,25–34,Female,South,Low,Ad_B,10,8,2,7,5,Detractor,3,And Citizen Heart Serious Hear Like.,15-May-25
+10412,Young Adult,25–34,Male,North,Low,Ad_A,10,7,5,6,4,Promoter,87,Everybody Ready Provide True Receive Would Know Particularly Personal Impact Work.,25-Apr-25
+10413,Older,55+,Female,North,Low,Ad_A,8,8,4,4,2,Detractor,-50,Just Response Professor Blue Wish Begin Take Probably Need Society.,17-May-25
+10414,Older,45–54,Female,East,Low,Ad_B,1,6,2,9,4,Detractor,-71,Certainly Gun Truth Me Job Operation Clear Manager Past His.,25-Mar-25
+10415,Young,18–24,Non-Binary,North,High,Ad_B,5,9,9,6,1,Detractor,-90,Environmental Too World Record Similar Stock Best.,27-Apr-25
+10416,Older,55+,Female,South,High,Ad_A,3,3,9,4,2,Passive,7,Nor Law Himself Rich Know Strategy Size.,22-Apr-25
+10417,Young Adult,25–34,Non-Binary,South,Middle,Ad_A,1,10,6,3,4,Detractor,-54,Certain Learn Age National Fight Cultural Explain None Run Act.,18-Apr-25
+10418,Young Adult,25–34,Female,East,Middle,Ad_B,4,4,6,4,1,Promoter,66,Rate Congress Evening Inside Nation Ask Notice Opportunity Maybe Beat Network.,24-May-25
+10419,Older,55+,Female,South,High,Ad_A,8,6,8,3,3,Detractor,-11,Produce Bill Attention Suffer Ground Letter.,3-Jun-25
+10420,Older,45–54,Female,West,High,Ad_B,3,8,6,2,3,Promoter,22,Guy Meeting Window Kind Behind Along Recently.,27-May-25
+10421,Young Adult,25–34,Non-Binary,South,Low,Ad_B,10,5,1,5,5,Promoter,99,Mission Computer Business Interest Each Certainly.,25-Apr-25
+10422,Older,45–54,Non-Binary,South,Low,Ad_B,2,3,4,2,2,Promoter,90,Tree Provide Fact Court.,7-May-25
+10423,Young Adult,25–34,Male,North,Middle,Ad_B,9,6,7,6,3,Promoter,91,Knowledge Under Long School Argue Continue Heavy.,26-Apr-25
+10424,Young Adult,25–34,Non-Binary,North,High,Ad_A,10,4,2,3,2,Promoter,88,Most Support Speak Especially Drug Response Institution Say.,20-May-25
+10425,Middle Aged,35–44,Non-Binary,South,Middle,Ad_A,5,9,9,6,3,Promoter,24,Pm State Month Guess Group Official.,2-Jun-25
+10426,Young Adult,25–34,Non-Binary,East,High,Ad_A,7,3,8,10,5,Promoter,81,Course Manager Benefit Effect Involve Wind Sure.,16-Mar-25
+10427,Young,18–24,Non-Binary,North,Low,Ad_A,2,4,8,9,4,Promoter,21,Hot Late Listen Arm Work Its Land Blue Finish May.,5-May-25
+10428,Older,55+,Male,East,Middle,Ad_A,9,7,7,1,5,Detractor,-7,Market Window Congress Challenge Someone East Establish Whatever Opportunity Laugh.,12-Apr-25
+10429,Older,55+,Non-Binary,South,Middle,Ad_A,9,7,4,6,1,Promoter,100,Approach Explain Happy Happen Contain.,29-Mar-25
+10430,Older,45–54,Female,South,High,Ad_A,4,4,2,4,3,Detractor,2,News Small Officer Garden Of Approach.,30-May-25
+10431,Young Adult,25–34,Female,West,Low,Ad_B,4,6,3,2,1,Promoter,85,Suddenly Under Loss Yet Language Ago.,30-May-25
+10432,Young,18–24,Non-Binary,North,Middle,Ad_A,6,3,6,4,1,Promoter,83,Couple West Everyone Growth West Media His Data Close Major Finish.,12-Apr-25
+10433,Older,45–54,Non-Binary,South,Low,Ad_A,10,6,5,1,2,Promoter,61,All Pm Dinner End.,2-May-25
+10434,Middle Aged,35–44,Female,West,Middle,Ad_B,10,2,8,3,3,Detractor,-70,Tough Mouth Grow Skin Improve Real.,29-Apr-25
+10435,Older,45–54,Female,North,Low,Ad_A,10,8,6,10,1,Detractor,-49,Course Adult Day Success Turn Positive By Professor.,19-Apr-25
+10436,Older,45–54,Male,South,High,Ad_A,6,2,6,9,4,Detractor,-12,Stand Public Knowledge Admit Face Today Ahead Forward Two Take.,29-Mar-25
+10437,Young Adult,25–34,Female,South,Middle,Ad_B,1,7,1,10,1,Detractor,-25,Information Civil Possible Fish Draw Peace Heavy Rest Space.,3-Apr-25
+10438,Middle Aged,35–44,Female,North,Middle,Ad_A,9,9,4,5,4,Promoter,28,Get All Kitchen Toward Attorney Born Financial Face Relationship Different.,21-Apr-25
+10439,Older,45–54,Non-Binary,North,Low,Ad_A,2,1,5,6,2,Promoter,82,Run Move Role Two Drive Draw.,19-Mar-25
+10440,Young,18–24,Female,North,Low,Ad_A,5,8,3,3,1,Detractor,-79,Itself Not Arrive Recognize Factor Family Price.,14-May-25
+10441,Young,18–24,Male,South,Middle,Ad_B,9,7,9,5,5,Detractor,-61,Owner Stand Measure In Parent Democrat Anyone Lead Place Young.,19-Apr-25
+10442,Older,55+,Female,South,High,Ad_A,7,6,1,8,2,Detractor,0,Claim Would Instead Threat Summer While.,12-Mar-25
+10443,Middle Aged,35–44,Non-Binary,West,Low,Ad_A,6,6,6,6,4,Promoter,10,Occur Leave Sea Upon Partner Fact Eat Administration Bring Policy.,2-Apr-25
+10444,Middle Aged,35–44,Non-Binary,East,Low,Ad_B,8,6,6,4,2,Promoter,28,Professor Student Explain Owner Friend Lead Boy Medical Yourself Painting.,5-Jun-25
+10445,Older,55+,Female,North,Low,Ad_A,3,9,10,2,1,Detractor,-36,Nation Bring When Manage Least Before.,26-Mar-25
+10446,Older,45–54,Non-Binary,South,Middle,Ad_B,5,2,5,9,3,Promoter,90,Trade Season Put School It Society Agree Bar.,6-Jun-25
+10447,Middle Aged,35–44,Male,South,Middle,Ad_B,10,1,5,1,3,Promoter,81,Imagine Month Discuss Analysis Everyone Sense Race.,27-Mar-25
+10448,Young,18–24,Male,North,Middle,Ad_A,4,6,10,1,4,Promoter,69,Country Very Budget Sound House Return Face Catch We.,8-May-25
+10449,Young,18–24,Female,East,Middle,Ad_B,4,10,5,4,4,Promoter,48,Author Hair Child Knowledge Building Unit.,4-Jun-25
+10450,Young Adult,25–34,Female,North,High,Ad_B,4,8,6,7,3,Detractor,-54,Up Walk Rest Mrs Economic Radio Read.,17-Mar-25
+10451,Middle Aged,35–44,Female,East,High,Ad_A,10,3,8,1,4,Detractor,-79,Run Money Soon Trip So Figure Bank.,22-Mar-25
+10452,Older,45–54,Non-Binary,South,Middle,Ad_B,8,10,2,9,2,Promoter,65,Population Mouth Adult Sport Message Defense Entire Why Part Reduce.,13-Mar-25
+10453,Older,55+,Male,East,High,Ad_B,6,1,6,4,5,Detractor,-2,Admit Wrong Society Box Poor Soldier Hit.,14-May-25
+10454,Older,55+,Male,West,Low,Ad_A,3,9,1,3,5,Detractor,-93,Agreement Democrat Middle Attention Meet Drop Hour Thus Skin.,20-Mar-25
+10455,Older,45–54,Non-Binary,South,Low,Ad_A,10,1,4,1,2,Promoter,89,Race Same Stage Inside Hold Even Evidence Where Serve Number.,30-May-25
+10456,Young Adult,25–34,Male,West,Low,Ad_A,5,3,10,10,5,Promoter,74,Business Ready Image Never Offer.,8-Jun-25
+10457,Older,55+,Female,North,Middle,Ad_B,6,8,3,4,1,Detractor,-84,Throughout Quickly Special So Reason.,11-Apr-25
+10458,Middle Aged,35–44,Female,North,Low,Ad_A,5,3,9,9,2,Detractor,-84,Also Thought Support Food Design Us.,26-Mar-25
+10459,Young Adult,25–34,Female,North,High,Ad_B,6,4,3,10,4,Detractor,-11,Religious Interesting He Material Voice.,16-May-25
+10460,Middle Aged,35–44,Male,East,Middle,Ad_B,8,8,6,6,2,Promoter,40,Article Attention Choice Hotel Across Food.,7-May-25
+10461,Young,18–24,Female,South,High,Ad_B,7,1,1,6,3,Promoter,44,Baby Significant Nearly Yourself Figure Religious.,22-Apr-25
+10462,Young Adult,25–34,Non-Binary,North,Low,Ad_B,5,6,6,1,4,Promoter,65,Seem Drive Contain Road Attack Trial Actually.,17-Mar-25
+10463,Older,55+,Non-Binary,North,Low,Ad_B,10,1,4,10,3,Detractor,-20,Environmental So Line Sister.,30-May-25
+10464,Young Adult,25–34,Male,South,Low,Ad_B,6,1,8,2,4,Detractor,-23,Shoulder Among Ground Miss Challenge Drive Thank Win Growth Together.,11-Apr-25
+10465,Young Adult,25–34,Non-Binary,North,Middle,Ad_B,4,8,9,6,5,Promoter,72,Partner Local Fight Society Impact Power Argue Heavy Institution.,24-May-25
+10466,Young Adult,25–34,Non-Binary,West,High,Ad_A,9,4,4,2,2,Detractor,-95,Whom Together At Wife Little Carry Wrong.,22-Mar-25
+10467,Young Adult,25–34,Male,South,Middle,Ad_A,4,1,10,4,1,Promoter,62,Figure Human Fall Hotel Free Care Find Also Power Statement.,11-May-25
+10468,Middle Aged,35–44,Female,South,Middle,Ad_B,1,10,10,5,4,Detractor,-54,Coach Network Certain Such Difficult Alone.,13-May-25
+10469,Young,18–24,Female,South,Low,Ad_B,7,7,6,9,4,Detractor,-87,Face Increase Near Rule Character.,31-Mar-25
+10470,Older,45–54,Female,West,Middle,Ad_A,7,5,1,4,3,Detractor,-29,Same Bar Speech Age Quickly Mention Radio Safe.,10-May-25
+10471,Young Adult,25–34,Male,South,Middle,Ad_B,4,5,4,10,5,Promoter,88,Whether Crime Sister Continue Ability Career Take Country.,19-Apr-25
+10472,Older,55+,Non-Binary,West,Low,Ad_A,3,1,7,3,3,Promoter,42,Enough Its Former Cultural Event Perhaps Group.,29-May-25
+10473,Young Adult,25–34,Female,South,Middle,Ad_A,8,10,1,8,3,Detractor,-47,Interview Model Letter Lay Measure Civil How Certainly Draw.,27-Apr-25
+10474,Older,55+,Female,East,Low,Ad_A,5,6,8,1,5,Detractor,-74,Door Discussion Field Gun Hot Simple High Want Various Involve.,24-Apr-25
+10475,Middle Aged,35–44,Male,North,Low,Ad_B,10,9,10,9,1,Detractor,-88,A Ahead Explain Church.,15-Mar-25
+10476,Older,55+,Female,East,Low,Ad_B,,9,6,,3,Promoter,58,Town School Everybody Suggest Seven.,14-Mar-25
+10477,Older,45–54,Male,North,Low,Ad_A,,8,5,,3,Promoter,62,At Cost Day Doctor Too Current Above Plant Hit Argue.,14-May-25
+10478,Young,18–24,Non-Binary,West,Middle,Ad_A,,5,10,,4,Detractor,-41,Environment Practice Style Left Consider Reveal Congress Little East.,5-May-25
+10479,Older,55+,Male,East,Low,Ad_A,,1,9,,5,Detractor,-95,Sometimes Help Would Until That Get Toward Author Member.,12-May-25
+10480,Older,55+,Male,South,Low,Ad_A,,9,2,,2,Promoter,96,Project Far Scientist May Writer Budget Create Have Near Class.,29-Mar-25
+10481,Young,18–24,Male,North,Middle,Ad_A,,1,5,,1,Detractor,-43,Front Population Peace Future Surface Put.,23-Mar-25
+10482,Older,45–54,Male,North,Middle,Ad_B,,8,6,,1,Detractor,-52,Pm Identify Address Allow Seek All Shake.,28-May-25
+10483,Young Adult,25–34,Non-Binary,East,High,Ad_A,,5,7,,5,Promoter,50,Pressure Financial Half Anything Public Later Civil Most.,18-May-25
+10484,Older,55+,Non-Binary,West,Middle,Ad_B,,3,5,,4,Promoter,61,Ahead Control Ball Agree Control Possible Town Think.,5-Apr-25
+10485,Young,18–24,Female,East,Middle,Ad_A,,7,9,,4,Detractor,-75,Significant Win Pm Treat Color Fish Total Throw.,9-May-25
+10486,Middle Aged,35–44,Non-Binary,West,High,Ad_B,,7,1,,5,Detractor,-54,Difficult Authority People Magazine When.,9-May-25
+10487,Young,18–24,Non-Binary,West,Middle,Ad_B,,9,7,,4,Detractor,-96,No Security East Which Evidence Pattern.,23-Mar-25
+10488,Middle Aged,35–44,Female,North,Middle,Ad_B,,7,10,,1,Detractor,-81,Guess Quality Continue If Ready Give Couple Partner.,29-Apr-25
+10489,Older,45–54,Non-Binary,East,Middle,Ad_B,,3,7,,1,Promoter,33,Particular Boy Entire First Where Serious Assume Unit.,29-Apr-25
+10490,Young Adult,25–34,Male,East,Middle,Ad_B,,1,4,,2,Promoter,97,Seven Smile Key Speak Popular Recently Away More American Whatever.,20-May-25
+10491,Young,18–24,Unknown ,West,High,Ad_B,,8,9,,5,Detractor,-42,Us Degree Song Worry Director Anyone.,4-Jun-25
+10492,Older,55+,Female,East,Middle,Ad_A,,3,5,,3,Promoter,91,Return Use Management Study Better Travel Responsibility Join.,16-Apr-25
+10493,Older,45–54,Female,South,Middle,Ad_B,,8,4,,3,Promoter,45,Election Take Game Enough Second Book Major Too Cup High.,27-Apr-25
+10494,Young,18–24,Female,South,High,Ad_A,,8,7,,2,Detractor,-54,Author Some Worker Rise Newspaper Certainly New.,12-May-25
+10495,Older,55+,Male,East,Low,Ad_B,,5,4,,2,Detractor,-84,From Where Rather Determine Director Skin Allow Impact Cover.,21-May-25
+10496,Young,18–24,Non-Binary,East,High,Ad_B,,1,3,,4,Detractor,-87,Never School Score Leader Have Soldier.,21-Apr-25
+10497,Middle Aged,35–44,Male,West,Low,Ad_A,,10,9,,2,Detractor,-88,Available Report Less Bank Threat Improve Trial Mean Method Buy.,5-May-25
+10498,Young,18–24,Female,South,High,Ad_B,,7,8,,2,Promoter,34,His At Program Society Common Feeling Hundred Far Edge.,4-May-25
+10499,Young,18–24,Non-Binary,South,High,Ad_A,,10,1,,3,Promoter,27,Enjoy Likely Whole Speak Study.,24-May-25
+10500,Young,18–24,Non-Binary,North,Middle,Ad_A,,5,7,,4,Detractor,-57,Ball Husband Method Kitchen Beyond Base Friend.,23-May-25
