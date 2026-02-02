@@ -1,72 +1,113 @@
-# Zappi-Brand-Loyalty-Analysis
-A Data Analysis Project Using Excel, MySQL, Power BI
+# Zappi Brand Loyalty Analysis: Driving Customer Insights and Loyalty Strategies Using Data
 
+## Key Insights & Recommendations
+- Key Insights
+
+Ad Version B outperformed Version A in engagement and recall.
+
+Middle-aged customers (35–54) demonstrated the highest brand loyalty.
+
+Customers with high engagement scores were less likely to switch brands.
+
+Feedback indicated message clarity as a primary driver of loyalty.
+
+Patterns varied across regions and demographic groups, highlighting opportunities for targeted campaigns.
+
+- Recommendations
+
+Optimize Messaging for Engagement:
+Prioritize ad clarity and messaging for younger age groups to improve engagement while maintaining strong performance among middle-aged audiences.
+
+Leverage High-Loyalty Segments:
+Focus campaigns and loyalty initiatives on age groups and regions with high brand loyalty to maximize retention.
+
+Expand A/B Testing Practices:
+Use A/B testing routinely for all campaigns to identify the most effective ad versions before large-scale deployment.
+
+Target Growth Opportunities:
+Explore underperforming demographics and regions with tailored campaigns to increase adoption and reduce churn.
 
 ## Project Overview
-This project explores customer sentiment and brand loyalty using data from a fictional survey dataset modeled after Zappi's brand insight processes. The goal was to identify patterns in customer loyalty, ad recall, and message clarity across demographic groups. This project also served as a personal challenge in data cleaning, analysis, and visualization.
+
+This project analyzes customer sentiment and brand loyalty using a fictional survey dataset modeled after Zappi's brand insight processes. The goal was to uncover actionable patterns in customer loyalty, ad recall, and message clarity and communicate them through a professional Power BI dashboard.
 
 ## Objectives
-- Understand how different age groups and regions interact with brand messaging.
-- Evaluate ad performance using A/B testing.
-- Explore customer loyalty patterns and the likelihood of customer switching.
-- Build a professional Power BI dashboard to present key insights.
-- Demonstrate growth in data storytelling and dashboard design.
+
+Evaluate how age, gender, and region influence brand perception and loyalty.
+
+Assess ad performance through A/B testing.
+
+Identify patterns in customer switching likelihood.
+
+Build a Power BI dashboard to communicate insights effectively.
 
 ## Tools & Skills Used
-### Tool	Purpose
-- Excel	Data cleaning, formatting, and age grouping
-- MySQL	Querying, transformation, and data exploration
-- Power BI	Visualization, dashboard design
-- A/B Testing: Compare ad version effectiveness
+- Tool
+  
+Excel	Data cleaning, formatting, and age grouping
+
+MySQL	Querying, transformation, and analysis
+
+Power BI	Visualization and dashboard storytelling
+
+A/B Testing: Evaluate ad version effectiveness
 
 ## Data Cleaning (Excel)
-- Removed duplicates, handled missing values, and invalid gender values.
-- Created an Age_Category column (e.g., "Young Adult", "Older").
-- Standardized column formats (scores, NPS values).
-- Highlighted and removed blanks using conditional formatting and filters.
+
+Removed duplicates and handled missing or invalid values.
+
+Created Age_Category column (e.g., Young Adult, Middle-Aged).
+
+Standardized column formats and highlighted blanks for removal.
 
 ## SQL Analysis (MySQL)
-- Sample questions answered:
-- What is the average NPS score by region?
-- Which gender had the highest ad engagement?
-- Which ad version performed better?
-- Who is most likely to switch brands by age group?
 
-*All queries were written in MySQL, and results were verified before visualization.*
+Business questions addressed:
+
+Average NPS score by region
+
+Gender engagement differences
+
+Ad version performance
+
+Customer switching likelihood by age group
+
+All queries are executed and verified before visualization.
 
 ## Power BI Dashboard
-Theme: Clean, professional layout with soft, warm colors (moss green, muted orange, off-white). Designed with intermediate-level storytelling principles.
 
-### Key Visuals Included:
-- KPI Cards: Avg. NPS, Brand Loyalty Score
-- Donut Chart: NPS Category Distribution
-- Stacked Bar Chart: Ad Recall vs Engagement
-- Area Chart: Switch Likelihood by Age Group
-- Composition Tree: Customer Segments
-- Feedback Comment Highlights (Word trim substitute)
-- Dashboard emphasizes clarity, simplicity, and impactful spacing.
+Theme: Clean, professional layout with soft, warm colors (moss green, muted orange, off-white).
 
-## Key Insights
-- Ad Version B performed better in terms of engagement and recall.
-- Middle-aged groups (35–54 years old) had higher brand loyalty.
-- Customers with high engagement showed lower switching likelihood.
-- Feedback highlighted message clarity as a driver of loyalty.
+## Key Visuals:
 
-## Analytical Methods Used
-- Exploratory Data Analysis (EDA)
-- A/B Testing on ad versions
-- Segmentation by age, gender, and region
-- Aggregation & metric comparison
-- Data storytelling through Power BI
+KPI Cards: Avg. NPS, Brand Loyalty Score
 
-## What I Learned
-- How to design from a research question, not just a dataset.
-- Importance of retracing steps during data cleaning when errors arise.
-- Applied A/B testing in real data for the first time – and I loved it!
-- Gained more confidence in visual design, color theory, and layout.
+Donut Chart: NPS Category Distribution
+
+Stacked Bar: Ad Recall vs Engagement
+
+Area Chart: Switch Likelihood by Age Group
+
+Composition Tree: Customer Segments
+
+Feedback Comment Highlights
+
+Emphasis on clarity, impactful spacing, and actionable insights.
+
+## Analytical Methods
+
+### Exploratory Data Analysis (EDA)
+
+A/B Testing on ad versions
+
+Segmentation by age, gender, and region
+
+Aggregation & metric comparison
+
+Data storytelling through Power BI
 
 ## Acknowledgments
-Special thanks to Zappi for inspiring the theme of this project.
-This dataset is fictional and created for practice and learning purposes.
 
+Thanks to Zappi for inspiring this project.
 
+The dataset is fictional and created for practice purposes.
