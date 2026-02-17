@@ -1,5 +1,9 @@
 # Zappi Brand Loyalty Analysis: Driving Customer Insights and Loyalty Strategies Using Data
 
+## Project Overview
+
+This project analyzes customer sentiment and brand loyalty using a fictional survey dataset modeled after Zappi's brand insight processes. The goal was to uncover actionable patterns in customer loyalty, ad recall, and message clarity and communicate them through a professional Power BI dashboard.
+
 ## Key Insights & Recommendations
 - Key Insights
 
@@ -26,10 +30,6 @@ Use A/B testing routinely for all campaigns to identify the most effective ad ve
 
 Target Growth Opportunities:
 Explore underperforming demographics and regions with tailored campaigns to increase adoption and reduce churn.
-
-## Project Overview
-
-This project analyzes customer sentiment and brand loyalty using a fictional survey dataset modeled after Zappi's brand insight processes. The goal was to uncover actionable patterns in customer loyalty, ad recall, and message clarity and communicate them through a professional Power BI dashboard.
 
 ## Objectives
 
